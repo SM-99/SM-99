@@ -14,7 +14,7 @@
  </div>
  
 ### 👨‍🎓: About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇰🇪 living in 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+I am an aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇰🇪 living in 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 ---
 
 <div align="center">
