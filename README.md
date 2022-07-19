@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=SM-99&style=flat-square&color=blue" alt="" />
  </div>
  
-### 👨‍🎓: About Me :
+### 👨‍🎓 About Me :
 I am an aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇰🇪 living in 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 ---
 
@@ -21,7 +21,7 @@ I am an aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-- :telescope: I’m working as a Freelance Software Engineer building web applications.
+- :telescope: I’m currently working as a Graduate Production Support Analyst, taking a break from Freelancing.
 
 - :seedling: I have a great passion for learning different software languages and building fun projects! In my free time I am working on personal projects to freelance work which has maintained that drive to keep learning which will benefit me in the long run.
 
